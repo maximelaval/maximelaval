@@ -1,16 +1,16 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Maxime Laval!</h1>
 
-➢ I'm a Software Engineer who loves building applications and software. <be>
-➢ I currently work as a Data Scientist & Consultant for Forensic Investigations :male_detective: :mag_right:  <br>
-➢ I was born and grew up in Martinique in the Caribbean :desert_island:, but also lived in the UK :UK: and Belgium :belgium: <br>
-➢ I currently live in Switzerland :Switzerland:, where I studied Computer Science with a Bachelor at EPFL and a Master at ETHZ.<be>
-➢ Ask me about Data Science, Machine Learning, Blockchain Technology and programming .<br>
+➢ I'm a Software Engineer who loves building applications and software. <br>
+➢ I currently work as a Data Scientist & Consultant for Forensic Investigations 🕵️‍♂️🔎  <br>
+➢ I was born and grew up in Martinique in the Caribbean :desert_island:, but also lived in the UK 🇬🇧 and Belgium 🇧🇪 <br>
+➢ I currently live in Switzerland 🇨🇭:, where I studied Computer Science with a Bachelor's at EPFL and a Master's at ETHZ.<br>
+➢ Ask me about Data Science, Machine Learning, Blockchain Technology, and programming .<br>
 
 <h2 align="center"> ➯ Hobbies: </h2>
 ➢ I like Hiking :mountain:.<be>
 ➢ Playing piano  :musical_score: .<br>
 ➢ Skiing :skier: .<br>
-➢ Raquet Sports (Tennis, Badminton) :tennis: .<be> 
+➢ Raquet Sports (Tennis, Badminton) :tennis: .<br> 
   
 <h3 align="center"> ➯ 𝕎𝕒𝕟𝕥 𝕥𝕠 𝕥𝕒𝕝𝕜 𝕥𝕠 𝕞𝕖, 𝕤𝕒𝕪 𝙃𝙄 :postbox: </h3>
 <br>
