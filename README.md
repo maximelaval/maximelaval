@@ -2,7 +2,7 @@
 
 ➢ I'm a Software Engineer who loves building applications and software <br>
 ➢ I currently work as a Data Scientist & Consultant for Forensic Investigations 🕵️‍♂️🔎  <br>
-➢ I was born and grew up in Martinique in the Caribbean :desert_island, but also lived in the UK 🇬🇧 and Belgium 🇧🇪 <br>
+➢ I was born and grew up in Martinique in the Caribbean 🏝️, but also lived in the UK 🇬🇧 and Belgium 🇧🇪 <br>
 ➢ I currently live in Switzerland 🇨🇭, where I studied Computer Science with a Bachelor's at EPFL and a Master's at ETHZ<br>
 ➢ Ask me about Data Science, Machine Learning, Blockchain Technology, and programming <br>
 
